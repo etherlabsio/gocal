@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/apognu/gocal/parser"
+	"github.com/etherlabsio/gocal/parser"
 )
 
 const YmdHis = "2006-01-02 15:04:05"

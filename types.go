@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/apognu/gocal/parser"
+	"github.com/etherlabsio/gocal/parser"
 )
 
 const (
